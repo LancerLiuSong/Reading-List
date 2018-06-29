@@ -49,3 +49,6 @@ Just a reading list on computer vision, machine learning, geospatial data analys
 []()
 []()
 
+## Interesting Sites
+* [qianyi's projects](http://qianyi.info/project.html)
+
