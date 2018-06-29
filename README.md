@@ -20,10 +20,13 @@ Just a reading list on computer vision, machine learning, geospatial data analys
 - [ ] []()
 ## 3D Reconstruction
 - [ ] [Dense Semantic 3D Reconstruction](https://ieeexplore.ieee.org/document/7575643/)
-### 3D Building Reconstruction
+- [ ] [Fast Global Registration](https://github.com/IntelVCL/FastGlobalRegistration)
+- [ ] [Qianyi's Scene Reconstruction](http://qianyi.info/scene.html)
+- [ ] []()
+### Building Reconstruction (Geospatial)
 - [ ] A graph edit dictionary for correcting errors in roof topology graphs reconstructed from point clouds
 - [ ] Flexible building primitives for 3d building modeling
-### Indoor Env Reconstruction
+- [ ] [UrbanReconstruction](https://github.com/qianyizh/UrbanReconstruction)
 - [ ] []()
 ### Photogrammetry
 - [ ] []()
@@ -35,9 +38,10 @@ Just a reading list on computer vision, machine learning, geospatial data analys
 - [ ] []()
 # Coding
 ## Libraries
-* [OpenCV]()
-* [PCL]()
-* []()
+* [OpenCV](https://opencv.org/)
+* [PCL](http://pointclouds.org/)
+* [Tensorflow](https://www.tensorflow.org/)
+* [Keras](https://keras.io/)
 * []()
 ## Interesting Sites
 * [qianyi's projects](http://qianyi.info/project.html)
