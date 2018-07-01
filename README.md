@@ -19,6 +19,9 @@ Just a reading list on computer vision, machine learning, geospatial data analys
 - [ ] [SEGCloud: Semantic Segmentation of 3D Point Clouds](http://segcloud.stanford.edu/)
 - [ ] []()
 ## 3D Reconstruction
+- [ ] [KinectFusion](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/ismar2011.pdf)
+- [ ] [ElasticFusion](http://www.roboticsproceedings.org/rss11/p01.pdf) [Code](https://github.com/mp3guy/ElasticFusion)
+- [ ] [Real-time 3D Reconstruction at Scale using Voxel Hashing](http://niessnerlab.org/papers/2013/4hashing/niessner2013hashing.pdf) [Code](https://github.com/niessner/VoxelHashing)
 - [ ] [Dense Semantic 3D Reconstruction](https://ieeexplore.ieee.org/document/7575643/)
 - [ ] [Fast Global Registration](https://github.com/IntelVCL/FastGlobalRegistration)
 - [ ] [Qianyi's Scene Reconstruction](http://qianyi.info/scene.html)
